@@ -1,0 +1,2 @@
+# HD
+Hurtowanie danych
